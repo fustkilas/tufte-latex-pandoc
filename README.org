@@ -1,0 +1,6 @@
+* A simple Pandoc template to generate Tufte-LaTeX PDFs using Org, or Markdown 
+
+** Download repo
+
+** pandoc --template handout.tex -o tufte-latex.pdf tufte-latex.org
+
